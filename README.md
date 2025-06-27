@@ -49,11 +49,11 @@ public class WhoAmI {
  ```
  
 
- 
 ## Other Stuff
 
 ![Haany's github stats](https://github-readme-stats.vercel.app/api?username=HexagonalSole1&show_icons=true&hide=[%22issues%22])
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HexagonalSole1)](https://github.com/HexagonalSole1/github-readme-stats)
+
  -------
 Credits: [MarikIshtar007](https://github.com/MarikIshtar007)
 
